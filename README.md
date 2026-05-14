@@ -70,7 +70,7 @@ Run `php artisan db:seed` and these are ready to go:
 |---|---|
 | Language | PHP 8.2 |
 | Framework | Laravel 11 |
-| Database | MariaDB via XAMPP |
+| Database | MySQL via XAMPP |
 | Frontend | Bootstrap 5.3 (CDN) + inline SVGs |
 | Auth | Laravel session-based auth |
 | Mail (password reset) | Log driver — reset link written to `storage/logs/laravel.log` |
